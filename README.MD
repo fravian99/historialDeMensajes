@@ -1,0 +1,1 @@
+Este es un bot que envia los ultimos n mensajes al escribir "historial n" en el chat de discord y elimina el mensaje del comando
